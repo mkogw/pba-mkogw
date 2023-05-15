@@ -59,9 +59,9 @@ Record the computation time by filling the table below.
 
 | #points | time |
 | --- | --- |
-| 5000 | ? |
-| 10000 | ? |
-| 20000 | ? |
+| 5000 | 2808(ms) |
+| 10000 | 7161(ms) |
+| 20000 | 12919(ms) |
 
 
 ## Problem 2
@@ -77,9 +77,9 @@ Record the computation time by filling the table below.
 
 | #points | time |
 | --- | --- |
-| 5000 | ? |
-| 10000 | ? |
-| 20000 | ? |
+| 5000 | 14(ms) |
+| 10000 | 15(ms) |
+| 20000 | 18(ms) |
 
 
 ## After Doing the Assignment
